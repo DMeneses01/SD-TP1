@@ -62,6 +62,6 @@ Nota 2: Se for o primeiro acesso, não deve existir o último parâmetro, não h
 - Diferença de strings entre a diretoria atual dos servidores e o último endereço acedido pelo cliente no servidor 
 
 ##### Autores #####
-  - Duarte Meneses - 2019216949
-  - Patrícia Costa - 2019213995
+  - Duarte Meneses 
+  - Patrícia Costa 
 
