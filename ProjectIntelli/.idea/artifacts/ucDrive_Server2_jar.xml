@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ucDrive_Server2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ucDrive_Server2_jar</output-path>
+    <root id="archive" name="ProjectIntelli.jar">
+      <element id="module-output" name="ProjectIntelli" />
+    </root>
+  </artifact>
+</component>

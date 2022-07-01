@@ -1,0 +1,12 @@
+127.0.0.1
+6000
+6789
+6900
+C:\Users\Utilizador\Universidade\3_Ano\2_Semestre\SD\ProjectIntelli\src\server\Server_Homes
+127.0.0.8
+5000
+6789
+6900
+C:\Users\Utilizador\Universidade\3_Ano\2_Semestre\SD\ProjectIntelli\src\server2\Server_Homes
+5
+1000
